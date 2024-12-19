@@ -1,2 +1,51 @@
 ID,Title,Author,Copies
-20,MagicMoon,Rahul,10
+101,Engineering Mathematics 1,B.S. Grewal,10
+102,Engineering Mathematics 2,H.K. Dass,12
+103,Basic Electrical Engineering,D.P. Kothari,15
+104,Engineering Mechanics,S.S. Bhavikatti,8
+105,Strength of Materials,R.K. Bansal,10
+106,Fluid Mechanics and Hydraulic Machines,R.K. Rajput,7
+107,Thermodynamics,P.K. Nag,6
+108,Material Science and Metallurgy,O.P. Khanna,9
+109,Computer Programming and Problem Solving,E. Balagurusamy,12
+110,Data Structures Using C,E. Balagurusamy,14
+111,Object-Oriented Programming with C++,Robert Lafore,8
+112,Digital Logic Design,M. Morris Mano,11
+113,Discrete Mathematics,Rosen,10
+114,Signals and Systems,Alan V. Oppenheim,9
+115,Control Systems,B.S. Manke,7
+116,Engineering Chemistry,Jain and Jain,13
+117,Engineering Physics,Avadhanulu and Kshirsagar,12
+118,Environmental Studies,Rajagopalan,14
+119,Structural Analysis 1,R.C. Hibbeler,6
+120,Structural Analysis 2,R.K. Bansal,8
+121,Theory of Machines,S.S. Rattan,15
+122,Machine Design,V.B. Bhandari,10
+123,Heat and Mass Transfer,Yunus A. Cengel,9
+124,Concrete Technology,M.S. Shetty,12
+125,Surveying and Levelling,B.C. Punmia,14
+126,Advanced Engineering Mathematics,Erwin Kreyszig,7
+127,Power Electronics,P.S. Bimbhra,8
+128,Microprocessor Architecture,Ramesh S. Gaonkar,6
+129,Embedded Systems,Raj Kamal,10
+130,Electronics Devices and Circuits,Millman and Halkias,11
+131,Electrical Machines,P.S. Bimbhra,9
+132,Construction Planning and Management,B.C. Punmia,7
+133,Communication Systems,Simon Haykin,8
+134,Computer Networks,Andrew S. Tanenbaum,12
+135,Operating Systems,Abraham Silberschatz,11
+136,Database Management Systems,Raghu Ramakrishnan,9
+137,Software Engineering,Roger S. Pressman,14
+138,Theory of Computation,Michael Sipser,6
+139,Artificial Intelligence,Stuart Russell and Peter Norvig,10
+140,Machine Learning,Tom M. Mitchell,8
+141,Data Science for Engineers,Joel Grus,11
+142,Cybersecurity Principles,William Stallings,9
+143,Finite Element Analysis,C.S. Krishnamoorthy,12
+144,Design of Steel Structures,S.K. Duggal,14
+145,Transportation Engineering,S.C. Sharma,7
+146,Water Resources Engineering,R.K. Linsley,8
+147,Geotechnical Engineering,B.M. Das,6
+148,Renewable Energy Sources,Sukhatme,10
+149,Entrepreneurship Development,Vasant Desai,9
+150,Industrial Management,O.P. Khanna,11
